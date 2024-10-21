@@ -16,10 +16,10 @@ This project is a Netflix-style web application built using React. It allows use
 
 ## Technologies Used
 
-- **Frontend**: React, Tailwind CSS
+- **Frontend**: HTMl,CSS,Javascript,React,Redux, Tailwind CSS
 - **Backend**: mongodb,mongoose,Expressjs,Authentication,Nodejs
-- **APIs**: (List any APIs used, e.g., The Movie Database API)
-- **Tools**: Vite, Git, GitHub
+  
+- **Tools**: Vite, Git, GitHub,React,ReduxToolKit
 
 ## Installation
 
